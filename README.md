@@ -1,2 +1,2 @@
 # Molarity Calculator #
-Calculate Mol concentration to weight at a specific solution volume and _vice versa_
+Calculate Mol concentration from reagent weight with a specified volume of solution, or _vice versa_.
